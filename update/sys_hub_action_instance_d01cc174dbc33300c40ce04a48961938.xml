@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_instance">
+    <sys_hub_action_instance action="INSERT_OR_UPDATE">
+        <action_inputs/>
+        <action_type display_value="Log">5bc1bcc6531003003bf1d9109ec587d4</action_type>
+        <action_type_parent/>
+        <comment>Log NeedIt Task closure</comment>
+        <compiled_snapshot display_value="Log">5bc1bcc6531003003bf1d9109ec587d4</compiled_snapshot>
+        <display_text/>
+        <flow display_value="Handle Overdue NeedIt Tasks">d8684db0dbc33300c40ce04a489619ed</flow>
+        <order>2</order>
+        <parent_ui_id/>
+        <sys_class_name>sys_hub_action_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-01 07:23:26</sys_created_on>
+        <sys_id>d01cc174dbc33300c40ce04a48961938</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt Spoke" source="x_381334_needit_sp">7911857cdb833300c40ce04a48961954</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">7911857cdb833300c40ce04a48961954</sys_scope>
+        <sys_update_name>sys_hub_action_instance_d01cc174dbc33300c40ce04a48961938</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-01 07:28:13</sys_updated_on>
+        <ui_id>ef6727a3-df0c-4700-bf65-2b7fde8e892b</ui_id>
+    </sys_hub_action_instance>
+    <sys_variable_value action="delete_multiple" query="document_key=d01cc174dbc33300c40ce04a48961938"/>
+</record_update>
